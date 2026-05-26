@@ -1,37 +1,45 @@
 # Guilherme Ferrarezi
 
-Software Developer  
-SAP • Full-Stack • Automation
+### Software Developer • SAP • Full-Stack • Automation
 
-Building practical software — from enterprise solutions to personal projects.
+Building practical software — from enterprise applications to personal projects.
 
----
-
-### Current Focus
-
-- Enterprise development with SAP / ABAP
-- Full-Stack and desktop applications
-- Automation and productivity tools
-- Exploring AI and modern technologies
+Currently working with **SAP / ABAP development**, while exploring modern technologies, desktop applications and productivity-focused solutions.
 
 ---
 
-### Featured Projects
+## About
 
-🧩 **ABAP**  
-Business solutions and experiments in SAP environments
-
-🎮 **Biblioteca de Jogos Unificada**  
-Desktop project focused on organizing and centralizing game libraries
-
-🛠️ **Exercising-Programming**  
-Collection of exercises and implementations representing my learning journey
+- 💼 Enterprise development and business solutions
+- ⚙️ Focus on automation, maintainability and practical software
+- 🖥️ Exploring Full-Stack and desktop applications
+- 🧠 Interested in AI, productivity and developer tooling
 
 ---
 
-### Stack
+## Featured Projects
 
-`ABAP` `SAP` `Java` `JavaScript` `C#` `Rust` `React` `Tauri`
+### 🔹 ABAP
+Experiments and solutions built for SAP environments, focused on business processes and enterprise applications.
+
+### 🔹 Biblioteca de Jogos Unificada
+Personal desktop project focused on organizing and centralizing game libraries.
+
+### 🔹 Exercising-Programming
+Collection of exercises and implementations that represent my development journey.
+
+---
+
+## Stack
+
+![ABAP](https://img.shields.io/badge/ABAP-E10098?style=flat-square)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square)
 
 ---
 
@@ -40,15 +48,19 @@ Collection of exercises and implementations representing my learning journey
 <p align="left">
 
 <a href="mailto:guigui.f.g.2003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/guilherme-ferrarezi-generale/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Ferrarezi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/GuilhermeFerrarezi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+---
+
+> Clean solutions • Continuous improvement • Build useful things
